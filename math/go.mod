@@ -1,1 +1,1 @@
-module  github.com/zidanepirlo/MyMath/math/v2
+module  github.com/zidanepirlo/MyMath/math
